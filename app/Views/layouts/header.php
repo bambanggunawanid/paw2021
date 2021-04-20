@@ -26,11 +26,6 @@
                     <div class="sns_module">
                         <div class="header-account">
                             <div class="myaccount">
-                                <div class="tongle">
-                                    <i class="fa fa-user"></i>
-                                    <span>My account</span>
-                                    <i class="fa fa-angle-down"></i>
-                                </div>
                                 <div class="customer-ct content">
                                     <ul class="links">
                                         <li class="first">
@@ -54,8 +49,8 @@
             </div>
             <!-- Header Logo -->
             <div id="sns_header_logo">
-                <div class="container">
-                    <div class="container_in">
+                <div class="container ">
+                    <div class="container_in ">
                         <div class="row align-items-center">
                             <div class="col-md-3">
                                 <h1 id="logo" class="responsv">
@@ -69,7 +64,7 @@
                                     <div class="sns-searbox-content">
                                         <form id="search_mini_form" method="get" action="">
                                             <div class="form-search">
-                                                <input id="search" style="width: 500px" class="input-text" type="text" value="" name="q" placeholder="Search here...." autocomplete="off">
+                                                <input id="search" style="width: 50vh" class="input-text" type="text" value="" name="q" placeholder="Search here...." autocomplete="off">
                                                 <button class="btn ml-3" title="Search" type="submit">Search</button>
                                             </div>
                                         </form>
