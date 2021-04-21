@@ -1,0 +1,41 @@
+Samsung A02S 4/64 GB Galaxy Smartphone RAM 4 ROM 64 4/64GB 5000 Mah [Rp. 1.839.000]
+
+Samsung Galaxy A02s 4/64 - Garansi Resmi
+
+BASIC SPEK :
+Build: Glass front, plastic back, plastic frame
+SIM: Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)
+
+DISPLAY
+Size : 6.5 inches, 105.5 cm2
+Resolution: 720 x 1520 pixels, 19:9 ratio (~259 ppi density)
+PLATFORM
+OS: Android 10
+Chipset: Qualcomm SDM450 Snapdragon 450 (14 nm)
+
+MEMORYCard slot : microSDXC
+Internal: 32GB 3GB RAM // 4GB 64GB eMMC 5.1
+
+MAIN CAMERA
+
+Triple: 13 MP, (wide), AF 2 MP, f/2.4, (macro) 2 MP, f/2.4, (depth)
+Features : LED flash
+Video: 1080p@30fps
+
+SELFIE CAMERA
+Single: 5 MP, f/2.2
+Video
+SOUND
+Loudspeaker: Yes
+3.5mm jack: Yes
+
+COMMS
+
+Bluetooth : Yes
+GPS: Yes, with A-GPS, GLONASS, GALILEO, BDS
+Radio: Unspecified
+USB : microUSB 2.0
+
+BATTERY
+Type: Li-Po 5000 mAh, non-removable
+Charging: Fast charging 15W

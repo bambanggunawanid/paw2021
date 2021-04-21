@@ -1,0 +1,64 @@
+Huawei P40 Smartphone [8 GB/ 128 GB] [Rp. 7.919.000]
+Brand Huawei
+
+Jaringan GSM / HSPA / LTE / 5G*
+
+Sistem Operasi Android 10
+
+Prosesor Kirin 990 5G (7 nm+) Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55)
+
+GPU Mali-G76 MP16
+
+RAM 8 GB
+
+ROM 128 GB
+
+Ukuran Layar 6.1 inch
+
+Tipe Layar OLED capacitive touchscreen, 16M colors
+
+Resolusi Layar 1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)
+
+Kamera Belakang
+
+Triple
+
+50 MP, f/1.9, 23mm (wide), 1/1.28", 2.44Âµm, omnidirectional PDAF, OIS
+
+8 MP, f/2.4, 80mm (telephoto), PDAF, OIS, 3x optical zoom
+
+16 MP, f/2.2, 17mm (ultrawide), AF
+
+Â 
+
+Kamera Depan
+
+32 MP, f/2.0, 26mm (wide), 1/2.8", 0.8Âµm
+
+IR TOF 3D, (biometrics sensor only)
+
+Â 
+
+Fitur Kamera Leica optics, LED flash, panorama, HDR
+
+Audio USB Type-C earjack
+
+WLAN Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot
+
+Bluetooth 5.1, A2DP, LE
+
+GPS Dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS, NavIC
+
+Sensor Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum
+
+Baterai 3800 mAh
+
+Pengisian Daya Type-C, Fast charging 22.5W
+
+Slot Memori Eksternal NM Card Slot
+
+SIM Hybrid Dual Nano SIM
+
+Dimensi 148.9 x 71.1 x 8.5 mm
+
+Lainnya NFC

@@ -1,0 +1,58 @@
+SAMSUNG GALAXY M21 4/64 GARANSI RESMI [Rp. 2.580.000]
+
+Spesifikasi :
+
+Technology
+GSM / HSPA / LTE
+
+LAUNCH Announced 2020, March 18
+Status Available. Released 2020, March 23
+
+BODY Dimensions 159 x 75.1 x 8.9 mm (6.26 x 2.96 x 0.35 in)
+Weight 188 g (6.63 oz)
+Build Glass front (Gorilla Glass 3), plastic back, plastic frame
+
+SIM Dual SIM (Nano-SIM, dual stand-by)
+
+DISPLAY Type Super AMOLED capacitive touchscreen, 16M colors
+Size 6.4 inches, 100.5 cm2 (~84.2% screen-to-body ratio)
+Resolution 1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)
+Protection Corning Gorilla Glass 3
+420 nits max brightness (advertised)
+
+PLATFORM OS Android 10, One UI 2
+Chipset Exynos 9611 (10nm)
+CPU Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)
+GPU Mali-G72 MP3
+
+MEMORY Card slot microSDXC (dedicated slot)
+Internal 64GB 4GB RAM, 128GB 6GB RAM
+UFS 2.1
+
+MAIN CAMERA Triple 48 MP, f/2.0, 26mm (wide), 1/2.0", 0.8µm, PDAF
+8 MP, f/2.2, 12mm (ultrawide), 1/4.0", 1.12µm
+5 MP, f/2.2, (depth)
+Features LED flash, panorama, HDR
+
+Video 4K@30fps, 1080p@30fps, gyro-EIS
+SELFIE CAMERA Single 20 MP, f/2.0, 26mm (wide)
+Features HDR
+Video 1080p@30fps
+
+SOUND Loudspeaker Yes
+3.5mm jack Yes
+
+COMMS WLAN Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+
+Bluetooth 5.0, A2DP, LE
+
+GPS Yes, with A-GPS, GLONASS, BDS
+
+Radio FM radio, RDS, recording
+
+USB 2.0, Type-C 1.0 reversible connector
+
+FEATURES Sensors Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass
+
+BATTERY Non-removable Li-Po 6000 mAh battery
+Charging Fast charging 15W

@@ -1,6 +1,28 @@
 .cms-index-index2 h3 {
     text-transform: uppercase
 }
+.hidden-text-with-dot{
+  display: block;
+  white-space: nowrap;
+  width: 14em;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+}
+.outline-dark{
+    display: flex;
+    border:2px solid #349CFF;
+    border-radius:5px;
+    justify-content: space-between;
+    padding:2px 20px;
+}
+.clear-box{
+    border:none;
+    outline:none;
+    -webkit-appearance: none;
+}
+.btn-custom {
+    background-color: #349CFF;
+}
 a:focus {
   outline: none!important;
   outline-offset: 0px!important;
@@ -375,6 +397,7 @@ a:focus {
     color: #666;
     -webkit-transition: all .2s ease 0s;
     transition: all .2s ease 0s
+
 }
 #sns_left .bestsale .content .products-slider12 .item .item-inner .prd .item-info .info-inner .item-title a:hover,
 #sns_right .bestsale .content .products-slider12 .item .item-inner .prd .item-info .info-inner .item-title a:hover,
@@ -5007,24 +5030,24 @@ ul.mainnav li ul.menu li:last-child a {
     border: 1px solid #eaeaea
 }
 .sns-product-detail .product-essential .product-shop .item-inner.product_list_style .item-info .qty-container button.qty-decrease {
-    background: url(../images/qty-.png);
+    background: url(../images/qtymin.png);
     background-position: center;
     background-repeat: no-repeat
 }
 .sns-product-detail .product-essential .product-shop .item-inner.product_list_style .item-info .qty-container button.qty-decrease:hover {
-    background: url(../images/qty--.png);
+    background: url(../images/qtyminmin.png);
     background-position: center;
     background-repeat: no-repeat;
     background-color: #e34444;
     border-color: #e34444
 }
 .sns-product-detail .product-essential .product-shop .item-inner.product_list_style .item-info .qty-container button.qty-increase {
-    background: url(../images/qty+.png);
+    background: url(../images/qtyplus.png);
     background-position: center;
     background-repeat: no-repeat
 }
 .sns-product-detail .product-essential .product-shop .item-inner.product_list_style .item-info .qty-container button.qty-increase:hover {
-    background: url(../images/qty++.png);
+    background: url(../images/qtyplusplus.png);
     background-position: center;
     background-repeat: no-repeat;
     background-color: #e34444;
@@ -5515,7 +5538,7 @@ span:hover {
     color: #333!important
 }
 #sns_header .sns_header_top {
-    background: #222;
+    background: #349CFF;
     vertical-align: middle;
     position: relative;
     height: 39px
@@ -5909,24 +5932,22 @@ span:hover {
     margin-left: 10px;
     line-height: 37px;
     float: left;
-    border-left: 1px solid #363636
 }
 #sns_header .sns_header_top .header-account .myaccount .customer-ct ul li:last-child {
     padding-right: 10px;
-    border-right: 1px solid #363636
 }
 #sns_header .sns_header_top .header-account .myaccount .customer-ct ul li:last-child:before {
-    display: none
+    display: none;
 }
 #sns_header .sns_header_top .header-account .myaccount .customer-ct ul li a {
-    color: #888
+    color: #fff;
 }
 #sns_header .sns_header_top .header-account .myaccount .customer-ct ul li:hover a {
     text-decoration: underline
 }
 #sns_header .sns_header_top .currency-switcher .content,
 #sns_header .sns_header_top .language-switcher .content {
-    left: 0!important
+    left: 0!important;
 }
 #sns_header #sns_menu .container_in {
     position: relative
@@ -9819,6 +9840,7 @@ body.eimg-translatey .products-grid .item .item-inner .item-img.have-additional:
 }
 .products-grid .item .item-inner .action-bot .actions .add-to-links li a {
     color: #666;
+    background-color: #fff;
     display: inline-block;
     width: 100%;
     line-height: 20px;

@@ -1,0 +1,71 @@
+OPPO Reno4 Pro Smartphone [256GB/ 8GB] - Putih
+
+Rp6.999.000
+
+Reno4 Pro Spesifikasi:
+
+Dimensions/Weight
+Height: 160.2 mm
+Width: 73.2 mm
+Thickness: 7.7 mm
+Weight: Approximately 161 g
+
+Basic Parameters
+Color: Starry Night, Silky White
+Operating System: ColorOS 7.2, based on Android 10
+CPU: Qualcomm Snapdragon 720G
+GPU: Adreno™ 618 @750MHz
+Battery: 3910/4000mAh (Min/Typ)
+65W SuperVOOC 2.0
+35 Minute Charging Time (100%)
+RAM: 8GB
+Storage: 256GB
+External Storage Expendable up to 256GB
+Sim: Dual Nano Sim Card
+USB Type-C
+Audio Input: 3.5 mm
+
+Display
+Size: 6.5'' Super AMOLED
+Touchscreen: Multi-touch, Capacitive Screen
+Resolution: 2400 x 1080
+Refresh Rate: 90 Hz
+Colors: 16.7 million colors
+Screen Ratio: 91.5%
+
+Camera
+Rear Camera: 48MP (IMX586) + 8MP (FF wide angle) + 2MP (macro) + 2MP (filter)
+Sensor Size:
+Main camera: IMX586, 48MP, 1/2″, 0.8um, 4:3, 4-in-1 camera supported
+Wide angle: Hi846, 8MP, 1/4″, 1.12um
+Macro: OV02B10, 2MP, 1/5″, 1.75um, 4:3
+
+Lens Specification:
+Main camera: 80°, 6P, 26mm (equivalent focal length), AF supported
+Wide angle: 119°, 5P, 16mm (equivalent focal length)
+Macro: 89°, 3P, 22mm (equivalent focal length)
+Filter: 89°, 3P, 22mm (equivalent focal length)
+Focal Length:
+Main camera: 4.73mm
+Wide angle: 1.66mm
+Macro: 1.77mm
+Filter: 1.77mm
+Image Size: 8000 x 6000 (HD mode), 4000 x 3000 (normal mode)
+Aperture:
+Main camera: F1.7 + Wide angle: F2.2 + Macro: F2.4 + Filter: F2.4
+
+Front Camera: 32M
+Sensor Size: 1/2.74″/0.80um
+Focal Length: 3.74mm
+Aperture: F2.4
+Image Size: HD mode: 8000 x 6000; default mode: max 4000 x 3000; super wide angle mode: max 3264 x 2448
+Digital image stabilization: Yes
+Optical zoom: No
+Flash: LED fill light
+
+Video:
+Front Camera: 1080P/720P@30fps, default 720P@30fps
+Rear Camera: 4K/30fps; 1080P@60fps/30fps; 720P@60fps/30fps
+Slow Motion: 1080P@120fps, 720P@240fps
+Video Stabilization: EIS platform
+Video Ultra Steady: Yes

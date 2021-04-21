@@ -1,73 +1,119 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-<head>
-    <title>Home Page</title>
-    <link href='https://fonts.googleapis.com/css?family=Poppins:300,700' rel='stylesheet' type='text/css'>
-    <!-- Style Sheet-->
-    <link rel="stylesheet" type="text/css" href="font/font-awesome/css/font-awesome.min.css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="js/owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="js/owl-carousel/owl.theme.css">
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <!-- META TAGS -->
-    <meta name="viewport" content="width=device-width" />
-</head>
-
-<body id="bd" class=" cms-index-index cms-simen-home-page-v2 default cmspage">
-    <div id="sns_wrapper">
-        <!-- HEADER -->
-        <div id="sns_header" class="wrap">
-            <!-- Header Top -->
-            <div class="sns_header_top">
-                <div class="container">
-                    <div class="sns_module">
-                        <div class="header-account">
-                            <div class="myaccount">
-                                <div class="customer-ct content">
-                                    <ul class="links">
-                                        <li class="first">
-                                            <a class="top-link-myaccount" title="My Account" href="#">My Account</a>
-                                        </li>
-                                        <li>
-                                            <a class="top-link-wishlist" title="My Wishlist" href="#">My Wishlist</a>
-                                        </li>
-                                        <li>
-                                            <a class="top-link-checkout" title="Checkout" href="#">Checkout</a>
-                                        </li>
-                                        <li class=" last">
-                                            <a class="top-link-login" title="Log In" href="#">Login</a>
-                                        </li>
-                                    </ul>
+<!-- Menu -->
+<div id="sns_menu">
+    <div class="container">
+        <div class="sns_mainmenu">
+            <div id="sns_mainnav">
+                <div id="sns_custommenu" class="visible-md visible-lg">
+                    <ul class="mainnav">
+                        <li class="level0 custom-item active">
+                            <a class="menu-title-lv0 pd-menu116" href="/" target="_self">
+                                <span class="title">All Product</span>
+                            </a>
+                        </li>
+                        <li class="level0 nav-1 no-group first drop-submenu parent">
+                            <a class=" menu-title-lv0" href="listing-grid.html">
+                                <span class="title">Samsung</span>
+                            </a>
+                        </li>
+                        <li class="level0 nav-2 no-group drop-submenu parent">
+                            <a class=" menu-title-lv0" href="#">
+                                <span class="title">Xiaomi</span>
+                            </a>
+                        </li>
+                        <li class="level0 nav-3 no-group drop-submenu12 custom-itemdrop-staticblock">
+                            <a class=" menu-title-lv0" href="#">
+                                <span class="title">Vivo</span>
+                            </a>
+                        </li>
+                        <li class="level0 nav-4 no-group drop-submenu last parent">
+                            <a class=" menu-title-lv0" href="#">
+                                <span class="title">Oppo</span>
+                            </a>
+                        </li>
+                        <li class="level0 custom-itemdrop-staticblock">
+                            <a class="menu-title-lv0" href="404.html">
+                                <span class="title">Huawei</span>
+                            </a>
+                            <div class="wrap_dropdown fullwidth">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <a class="banner5" href="#">
+                                            <img alt="" src="images/menu/menu3.jpg">
+                                        </a>
+                                        <br>
+                                        <h3 class="headtitle">Sofa</h3>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
+                        </li>
+                        <li class="level0 custom-itemdrop-staticblock">
+                            <a class="menu-title-lv0" href="index.html">
+                                <span class="title">Apple</span>
+                            </a>
+                            <div class="wrap_dropdown fullwidth">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <a class="banner5" href="#">
+                                            <img alt="" src="images/menu/menu3.jpg">
+                                        </a>
+                                        <br>
+                                        <h3 class="headtitle">Sofa</h3>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            <!-- Header Logo -->
-            <div id="sns_header_logo">
-                <div class="container ">
-                    <div class="container_in ">
-                        <div class="row align-items-center">
-                            <div class="col-md-3">
-                                <h1 id="logo" class="responsv">
-                                    <a href="index.html" title="SALEPHONE">
-                                        <img alt="" src="images/logo-long.png">
-                                    </a>
-                                </h1>
-                            </div>
-                            <div class="top-search col-md">
-                                <div id="" class="sns-serachbox-pro">
-                                    <div class="sns-searbox-content">
-                                        <form id="search_mini_form" method="get" action="">
-                                            <div class="form-search">
-                                                <input id="search" style="width: 50vh" class="input-text" type="text" value="" name="q" placeholder="Search here...." autocomplete="off">
-                                                <button class="btn ml-3" title="Search" type="submit">Search</button>
-                                            </div>
-                                        </form>
+            <div class="sns_menu_right">
+                <div class="block_topsearch">
+                    <div class="top-cart">
+                        <div class="mycart mini-cart">
+                            <div class="block-minicart">
+                                <div class="tongle">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    <div class="summary">
+                                        <span class="amount">
+                                            <a href="#">
+                                                <span>3</span>
+                                                ( items )
+                                            </a>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="block-content content">
+                                    <div class="block-inner">
+                                        <ol id="cart-sidebar" class="mini-products-list">
+                                            <li class="item odd">
+                                                <a class="product-image" title="Modular Modern" href="detail.html">
+                                                    <img alt="" src="images/products/1.jpg">
+                                                </a>
+                                                <div class="product-details">
+                                                    <a class="btn-remove" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove This Item" href="#">Remove This Item</a>
+                                                    <a class="btn-edit" title="Edit item" href="#">Edit item</a>
+                                                    <p class="product-name">
+                                                        <a href="detail.html">Modular Modern</a>
+                                                    </p>
+                                                    <!-- <strong>1</strong>
+                                                                    x -->
+                                                    <span class="price">$ 540.00</span>
+                                                </div>
+                                            </li>
+                                        </ol>
+                                        <p class="cart-subtotal">
+                                            <span class="label">Total:</span>
+                                            <span class="price">$ 540.00</span>
+                                        </p>
+                                        <div class="actions">
+                                            <a class="button">
+                                                <span>
+                                                    <span>Check out</span>
+                                                </span>
+                                            </a>
+                                            <a class="button gfont go-to-cart" href="shoppingcart.html">Go to cart</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -75,3 +121,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- AND HEADER -->

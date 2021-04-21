@@ -1,0 +1,30 @@
+vivo Y20 2021 [4/64] RAM 4GB ROM 64GB Nebula Blue
+
+Rp2.199.000
+
+Processor : Helio P35
+RAM : 4 GB
+ROM : 64 GB
+Battery : 5000mAh (TYP)
+Operating System : Funtouch OS 11 (based on Android 10)
+Body Dimensions : 164.41×76.32×8.41mm
+Weight : 192g
+Display Screen : 6.51-inch
+Resolution : 1600*720(HD+)
+Type : IPS
+Screen : Capacitive multi-touch
+Standby Mode : Dual SIM and Dual Standby
+Card Slot : 2 Nano SIM + 1 Micro SD
+Camera : Front 8MP / Rear 13MP+2MP+2MP
+Aperture : Front f/1.8 (8MP)、Rear f/2.2 (13MP) + f/2.4(2MP)+ f/2.4(2MP)
+Modes : Portrait, Photo, Video, Panorama, Live Photo, Time-Lapse，DOC
+GPS : Supported
+OTG : Supported
+FM : Supported Location
+USB : Micro USB (USB 2.0)
+Accelerometer : Supported
+Ambient Light Sensor : Supported Proximity
+Sensor : Supported
+E-compass : Supported
+Fingerprint Sensor : Supported
+Gyroscope : Virtual Gyroscope

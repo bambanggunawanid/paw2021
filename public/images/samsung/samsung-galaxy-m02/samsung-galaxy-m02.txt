@@ -1,0 +1,54 @@
+SAMSUNG GALAXY M02 2/32GB [Rp. 1.229.900]
+
+GARANSI RESMI SEIN SAMSUNG INDONESIA
+IMEI TERDAFTAR DI WEBSITE KEMENPERIN
+
+Spesifikasi :
+
+NETWORK Technology
+GSM / HSPA / LTE
+LAUNCH Announced 2021, February 02
+Status Available. Released 2021, February 09
+
+BODY Dimensions 164 x 75.9 x 9.1 mm (6.46 x 2.99 x 0.36 in)
+Weight 206 g (7.27 oz)
+Build Glass front, plastic back, plastic frame
+
+SIM Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)
+
+DISPLAY Type PLS IPS
+Size 6.5 inches, 102.0 cm2 (~81.9% screen-to-body ratio)
+Resolution 720 x 1600 pixels, 20:9 ratio (~270 ppi density)
+
+PLATFORM OS Android 10, One UI 2.0
+Chipset Mediatek MT6739W (28 nm)
+CPU Quad-core 1.5 GHz Cortex-A53
+GPU PowerVR GE8100
+
+MEMORY Card slot microSDXC (dedicated slot)
+Internal 32GB 2GB RAM, 32GB 3GB RAM
+eMMC 5.1
+
+MAIN CAMERA Dual 13 MP, f/1.9, (wide), AF
+2 MP, f/2.4, (macro)
+Features LED flash
+
+Video 1080p@30fps
+SELFIE CAMERA Single 5 MP, f/2.0
+Video
+
+SOUND Loudspeaker Yes
+3.5mm jack Yes
+
+COMMS WLAN Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot
+
+Bluetooth 5.0, A2DP, LE
+
+GPS Yes, with A-GPS, GLONASS
+
+NFC No
+
+Radio Unspecified
+USB microUSB 2.0
+FEATURES Sensors Accelerometer, proximity
+BATTERY Type Li-Po 5000 mAh, non-removable

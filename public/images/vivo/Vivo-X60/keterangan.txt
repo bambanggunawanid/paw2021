@@ -1,0 +1,68 @@
+vivo X60 [8/128] RAM 8GB ROM 128GB Shimmer Blue
+
+Rp7.999.000
+
+Prosesor : Qualcomm Snapdragon 870
+RAM : 8GB
+ROM : 128GB
+Baterai : 4300 mAh
+Warna : Midnight Black, Shimmer Blue
+Sistem Operasi : Funtouch OS 11.1 Global (berdasarkan android 11)
+
+Bodi :
+Dimensi : 159.63mm×75.01mm×7.36mm (Midnight Black), 159.63mm×75.01mm×7.4mm (Shimmer Blue)
+Berat : 176g (Midnight Black), 177g (Shimmer Blue)
+Pengisian Daya Cepat : 33W FlashCharge
+Bahan : Kaca
+
+Tampilan
+Layar : 6.56", 120Hz refresh rate
+Resolusi : 2376*1080 (FHD+)
+Tipe : AMOLED
+Layar Sentuh : Layar sentuh kapasitif
+
+Jaringan
+Gelombang : 2G GSM, 3G WCDMA, 4G FDD_LTE, 4G TDD_LTE, 5G
+Tipe : Dual SIM Standby
+
+Kamera
+Kamera : Kamera depan 32MP / Kamera belakang 48MP+13MP+13MP
+Aperture : Kamera depan f/2.45 (32MP), kamera belakang f/1.79 (48MP) + f/2.2 (13MP) + f/2.46 (13MP)
+Lampu Kilat : Lampu kilat belakang, lampu kilat depan
+Mode : Night, Portrait, Photo, Video, 48MP, PANO, Live Photo, Slow-Mo, Time Lapse, PRO, AR Stickers, Super Moon, DOC, Astro, Pro Sports, Long-Exposure
+
+Media :
+Pemutaran Audio : WAV, MP3, MP2, MIDI, Vorbis, APE, FLAC
+Pemutaran Video : MP4, 3GP, AVI
+Perekaman Video : MP4
+
+Konektivitas
+Wi-FI : Mendukung 2.4G/5G Wi-Fi MIMO
+Bluetooth : Bluetooth 5.1
+USB : USB Type-C, USB 2.0
+GPS : Didukung
+OTG : Didukung
+NFC : DIdukung
+
+Lokasi
+GPS, BEIDOU, GLONASS, GALILEO, QZSS, NAVIC
+
+Sensor :
+Akselerometer : Didukung
+Sensor Suhu Warna : Didukung
+Sensor Cahaya Ambien : Didukung
+Sensor Kedekatan : Didukung
+Kompas Elektronik : Didukung
+Sensor Sidik Jari : In-Display
+Motor : Normal
+Giroskop : Entitas (Didukung)
+
+Isi Dalam Kotak :
+Model: X60
+Earphone: XE710 (3.5mm jack) + adaptor Type-C
+Dokumentasi (Kartu Garansi)
+Kabel USB Type-C
+Adaptor Daya USB
+Ejektor SIM
+Case Pelindung
+Lapisan Pelindung Layar (diaplikasikan)

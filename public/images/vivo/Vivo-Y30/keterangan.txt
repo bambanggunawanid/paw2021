@@ -1,0 +1,69 @@
+Vivo Y30 [4/128] RAM 4GB ROM 128GB Emerald Black
+
+Rp2.699.000
+
+Spesifikasi Dasar
+Prosesor : MTK6765
+RAM&ROM : 4GB+128GB
+Baterai : 5000mAh (TYP)
+Warna : Emerald Black / Moonstone White
+Sistem Operasi : Funtouch OS 10
+
+Bodi
+Dimensi : 162.04 × 76.46 × 9.11mm
+Berat : 197g (AU/ZA/AE/SG/TR: 197.8g)
+Fast Charging : N/A
+Material Bahan : Plastik
+
+Tampilan
+Ukuran Layar : 6.47 inci
+Resolusi : 1560×720 (HD+)
+Tipe Layar : LCD
+Layar Sentuh : Layar Sentuh Kapasitif
+
+Jaringan Indonesia
+Single SIM atau Dual SIM/Standby Mode/SIM Slot
+2G GSM : B2/3/5/8
+3G WCDMA : B1/5/8
+CDMA ／
+4G FDD_LTE : B1/3/5/8
+4G TDD_LTE : B40
+CA Requirements
+Tipe Jaringan : Dual SIM dan Dual Standby
+
+Kamera
+Kamera Depan 8MP / Belakang 13MP+8MP+2MP+2MP
+Bukaan : Depan f/2.05 (8MP), Belakang f/2.2 (13MP) + f/2.2(8MP)+ f/2.4(2MP)+ f/2.4(2MP)
+Lampu kitat : Lampu Kilat Belakang
+
+Mode : PDAF, Palm Capture, Voice Control, Selfie Softlight, Live Photos, HDR, Panorama, Bokeh, Portrait, Bokeh Portrait (depan), Watermark, Video Face Beauty, Filters (Palm Capture dan Voice Control tidak tersedia di versi GDPR)
+
+Media
+Hi-Fi : N/A
+Pemutar Audio : WAV, MP3, MP2, AMR-NB, MIDI, Vorbis, APE, FLAC, ogg, M4A
+Pemutar Video : MP4, 3GP, AVI, TS, MKV, FLV
+Perekaman Video : MP4
+Perekaman Suara : M4A
+
+Koneksi
+Wi-Fi : 2.4GHz /5GHz
+Bluetooth : Bluetooth 5.0
+USB : Type-C
+GPS : Didukung
+OTG : Didukung
+NFC : Hanya tersedia di RU, UA, AU
+FM : Didukung
+
+Sensors
+Accelerometer : Didukung
+Ambient light sensor : Didukung
+Proximity Sensor : Didukung
+E-compass : Didukung
+Fingerprint Sensor : Didukung
+Gyroscope : Virtual Gyroscope
+
+Di Dalam Kotak
+EX: XE160 with Remote and Mic : Hanya tersedia di JO, KE, NG, TZ, ZA, GH, CI, CO, TR, CL
+Dokumentasi : Tersedia
+Kabel USB Type C : Tersedia
+Pengisi Daya U

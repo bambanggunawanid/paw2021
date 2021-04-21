@@ -1,0 +1,72 @@
+Vivo Y12i [3/32] RAM 3 ROM 32 Agate Red
+
+Rp1.899.000
+
+Processor : Snapdragon 439
+RAM : 3GB
+Storage : 32GB
+Battery : 5000mAh
+Color : Mineral Blue, Agate Red
+Operating System : Funtouch OS 9.1 (Based on Android 9.0)
+
+Dimensions/weight :
+Dimensions : 159.43 × 76.77 × 8.92mm
+Weight : 190.5g
+Fast Charging : Not supported
+Material: Plastic Sheet
+Screen :6.35-inch
+
+Display :
+Resolution :720 × 1544 (HD+)
+Type :LCD
+Touch Screen : Capacitive multi-touch
+
+Network :
+Single SIM or Dual SIM/Standby Mode/SIM Slot
+2G GSM :B3/5/8
+3G WCDMA: B1/5/8
+4G FDD_LTE : B1/3/5/7/8
+4G TDD_LTE : B38/40/41
+Type : Dual SIM and Dual Standby
+
+Camera
+Camera Front : 8MP / Rear 13MP+2MP
+Aperture Front :f/1.8 (8MP), Rear f/2.2 (13MP) + f/2.2 (8MP) + f/2.4 (2MP)
+Flash : Rear flash
+Scene Modes : DOC, Professional, PDAF, Palm Capture, Voice Control, Time-Lapse, Slow, Live Photos, HDR,Panorama, Portrait Bokeh (single front camera), Watermark, AI Face Beauty, Camera Filter, Super Wide-Angle Camera
+
+Media
+Hi-Fi Chipset : N/A
+Audio Playback : WAV, MP3, MP2, AMR-NB, AMR-WB, MIDI, Vorbis, APE, FLAC, ogg
+Video Playback : MP4, 3GP, AVI, TS, MKV, FLV
+Video Recording : MP4
+Voice Recording : M4A
+
+Connectivity
+Wi-Fi :2.4G
+Bluetooth :Bluetooth 5.0
+USB :USB 2.0
+GPS :Supported
+OTG :Supported
+NFC :Not supported
+FM :Supported
+
+Location
+Location : GPS, BeiDou, GLONASS, Galileo
+
+Sensors
+Accelerometer :Supported
+Ambient Light :Sensor Supported
+Proximity Sensor :Supported
+E-compass : Supported
+Fingerprint Sensor : Supported
+Gyroscope : Virtual Gyroscope
+
+In the box :
+Y12i
+Documentation Supported
+microUSB to USB Cable Supported
+USB Power Adapter Supported
+SIM Ejector Supported
+Protective Case Supported
+Protective Film (applied) Supported

@@ -1,0 +1,52 @@
+Vivo V19 [8/128] RAM 8GB ROM 128GB Arctic Blue
+
+Rp3.999.000
+
+Spesifikasi Dasar
+Prosesor : SDM 675 AIE
+RAM&ROM : 8GB+128GB
+Baterai : 4500mAh
+Warna : Arctic Blue
+Sistem Operasi : Funtouch OS 10 dan Android 10
+
+Bodi
+Dimensi : 159.01×74.17×8.54mm
+Berat : 176g
+Fast Charging : 9V/2A
+Material Bahan : Plastic
+
+Tampilan
+Ukuran Layar : 6.44-inch dengan 91,38% rasio bodi-ke-layar
+Resolusi : 2400×1080 (FHD+)
+Tipe Layar : Super AMOLED
+Layar Sentuh : Capacitive Screen (Multi Touch)
+
+Jaringan
+Single SIM or Dual SIM/Standby Mode/SIM Slot
+2G GSM : B2/3/5/8
+3G WCDMA : B1/5/8
+CDMA ／
+4G FDD_LTE : B1/3/5/8
+4G TDD_LTE : B40
+Tipe Jaringan : Dual Sim + 1 Micro SD atau 3 nano sim card (Dedicated)
+
+Kamera
+Kamera Kamera Depan : 32MP / Kamera Belakang: 48MP, 8MP, 2MP, 2MP
+Aperture Kamera Depan : 32MP (F2.45 ) / Kamera Belakang: AI Rear Kamera 48MP (F1.8), Kamera Super Wide-Angle 8MP (F2.2), Kamera Bokeh 2MP (F2.4) Kamera Super Macro 2MP (F2.4)
+Flash : Flash Kamera Belakang
+
+Feature Kamera : Kamera Depan: Super night selfie, Portrait light effects (Portrait bokeh included), AR stickers, Pose Master, Filters, AI Makeup, AI HDR, Burst, Gender detection, Take Photo, Video record and etc.
+Kamera Belakang: Super night mode, Ultra Stable Video, Portrait bokeh, Portrait light effects, AR stickers, Pose Master, Filters , AI Makeup, Super EIS for videos, Super wide-angle (Photo+Video), Super macro, Portrait framing, AI HDR, Burst, SLO-MO, PRO Mode, Panorama, AI Scene Recognition, DOC, Take Photo, Video record and etc.
+
+Media
+Hi-Fi Chipset : Tidak Didukung
+Audio Playback : WAV，MP3，MP2，AMR-NB，AMR-WB，MIDI，Vorbis，APE，FLAC
+Video Playback : MP4，3GP，AVI，FLV，TS，MKV
+Video recording : MP4
+Voice Recording : Didukung
+
+Koneksi
+Wi-Fi : 2.4G+5G
+Bluetooth : Bluetooth 5.0
+USB : Type-C
+GPS : Didukung
