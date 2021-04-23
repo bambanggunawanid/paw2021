@@ -27,11 +27,9 @@ class Pages extends BaseController
 	public function detail($product_id)
 	{
 		$detail_product = $this->productsModel->getDetailProduct($product_id);
-		// dd($detail_product);
 		$data = [
 			'title' => 'Detail Page',
 			'detail_product' => $detail_product,
-			// 'image_product' => $image_product
 		];
 		return view("pages/detail", $data);
 	}

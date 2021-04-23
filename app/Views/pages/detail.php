@@ -66,7 +66,7 @@
                                     <div class="item-inner product_list_style">
                                         <div class="item-info">
                                             <div class="item-title">
-                                                <h4 title="Modular Modern"><?= $detail_product['product_name'] ?></h4>
+                                                <h4 title="<?= $detail_product['product_name'] ?>"><?= $detail_product['product_name'] ?></h4>
                                             </div>
                                             <div class="item-price">
                                                 <div class="price-box">
@@ -110,8 +110,8 @@
                                                             <span>*</span>
                                                         </p>
                                                         <select>
-                                                                <option class="color-choose"><?= $detail_product['color_1'] ?></option>
-                                                                <option class="color-choose"><?= $detail_product['color_2'] ?></option>
+                                                            <option class="color-choose"><?= $detail_product['color_1'] ?></option>
+                                                            <option class="color-choose"><?= $detail_product['color_2'] ?></option>
                                                         </select>
                                                     </div>
                                                 </div>
@@ -151,13 +151,23 @@
                             </h3>
                             <!-- Nav tabs -->
                             <ul class="nav nav-tabs" role="tablist">
-                                <li role="presentation" class="active style-detail"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Product Description</a></li>
-                                <li role="presentation" class="style-detail"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Reviews</a></li>
+                                <li id="spec" onclick="tabToggleA()" role="presentation" class="active style-detail"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Product Description</a></li>
+                                <li id="review" onclick="tabToggleB()" role="presentation" class="style-detail"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Reviews</a></li>
                             </ul>
+                            <script>
+                                const tablistToggle = document.querySelector("#spec");
+                                const tablistToggleDetail = document.querySelector("#review");
 
+                                function tabToggleA() {
+                                    tablistToggle.classList.add("active");
+                                    tablistToggleDetail.classList.remove("active");
+                                }
 
-
-
+                                function tabToggleB() {
+                                    tablistToggle.classList.remove("active");
+                                    tablistToggleDetail.classList.add("active");
+                                }
+                            </script>
                             <!-- Tab panes -->
                             <div class="tab-content">
                                 <div role="tabpanel" class="tab-pane active" id="home">
@@ -173,51 +183,58 @@
                                 <div role="tabpanel" class="tab-pane" id="profile">
                                     <div class="collateral-box">
                                         <div class="form-add">
-                                            <h2>Write Your Own Review</h2>
                                             <form id="review-form">
                                                 <input type="hidden" value="8haZqMXtybxMqfBa" name="form_key">
                                                 <fieldset>
                                                     <h3>
-                                                        You're reviewing:
-                                                        <span>Huawei P40 Pro</span>
+                                                        You're reviewing : <span><?= $detail_product['product_name'] ?></span>
+                                                        <hr>
                                                     </h3>
-                                                    <ul class="form-list">
+                                                    <ul>
                                                         <li>
-                                                            <label class="required" for="nickname_field">
-                                                                <em>*</em>
-                                                                Nickname
-                                                            </label>
-                                                            <div class="input-box">
-                                                                <input id="nickname_field" class="input-text required-entry" type="text" value="" name="nickname">
+                                                            <strong>
+                                                                <h3 class="font-weight-bold">Bambang Gunawan</h3>
+                                                            </strong>
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:<?= $detail_product['rating'] * 20 ?>%"></div>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <label class="required" for="summary_field">
-                                                                <em>*</em>
-                                                                Summary of Your Review
-                                                            </label>
-                                                            <div class="input-box">
-                                                                <input id="summary_field" class="input-text required-entry" type="text" value="" name="title">
+                                                            <?php
+                                                            $fh = fopen('komentar.txt', 'r');
+                                                            $fh2 = fopen('komentar2.txt', 'r');
+                                                            ?>
+                                                            <p class="mb-5">
+                                                                <?php
+                                                                while ($line = fgets($fh)) {
+                                                                    echo ($line);
+                                                                }
+                                                                fclose($fh);
+                                                                ?>
+                                                            </p>
+                                                        </li>
+                                                    </ul>
+                                                    <ul>
+                                                        <li>
+                                                            <strong>
+                                                                <h3 class="font-weight-bold">Eko Lutfianto</h3>
+                                                            </strong>
+                                                            <div class="rating-box">
+                                                                <div class="rating" style="width:<?= $detail_product['rating'] * 20 ?>%"></div>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <label class="required" for="review_field">
-                                                                <em>*</em>
-                                                                Review
-                                                            </label>
-                                                            <div class="input-box">
-                                                                <textarea id="review_field" class="required-entry" rows="3" cols="5" name="detail"></textarea>
-                                                            </div>
+                                                            <p>
+                                                                <?php
+                                                                while ($line = fgets($fh2)) {
+                                                                    echo ($line);
+                                                                }
+                                                                fclose($fh2);
+                                                                ?>
+                                                            </p>
                                                         </li>
                                                     </ul>
                                                 </fieldset>
-                                                <div class="buttons-set">
-                                                    <button class="button" title="Submit Review" type="submit">
-                                                        <span>
-                                                            <span>Submit Review</span>
-                                                        </span>
-                                                    </button>
-                                                </div>
                                             </form>
                                         </div>
                                     </div>
