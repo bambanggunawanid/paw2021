@@ -22,22 +22,17 @@ class Pages extends BaseController
 			'title' => 'Home Page',
 			'products' => $products
 		];
-
-		// Connect db without model
-		// $db = \Config\Database::connect();
-		// $users = $db->query("SELECT * FROM 01_users");
-		// dd($users);
-
 		return view('pages/home', $data);
 	}
-	public function detail($product_id = 0)
+	public function detail($product_id)
 	{
-		$products = $this->productsModel->findAll();
+		$detail_product = $this->productsModel->getDetailProduct($product_id);
+		// dd($detail_product);
 		$data = [
 			'title' => 'Detail Page',
-			'pid' => $product_id
+			'detail_product' => $detail_product,
+			// 'image_product' => $image_product
 		];
-
-		return view('pages/detail', $data);
+		return view("pages/detail", $data);
 	}
 }

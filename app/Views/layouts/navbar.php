@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div id="sns_header" class="wrap">
     <!-- Header Top -->
-    <div class="sns_header_top d-none d-md-block">
+    <div class="sns_header_top d-none d-sm-block">
         <div class="container">
             <div class="sns_module">
                 <div class="header-account">
@@ -36,7 +36,7 @@
                             <form id="search_form" method="get" action="">
                                 <div class="form-search outline-dark">
                                     <input id="search" style="min-width:40vh" class="clear-box" type="text" value="" name="q" placeholder="Search here...." autocomplete="off">
-                                    <button class="btn btn-custom text-white small" title="Search" type="submit">Search</button>
+                                    <button class="btn btn-custom" title="Search" type="submit">Search</button>
                                 </div>
                             </form>
                         </div>

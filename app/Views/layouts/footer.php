@@ -2,36 +2,36 @@
 <div id="sns_partners" class="wrap">
     <div class="container">
         <div class="slider-wrap">
-            <div class="partners_slider_in">
+            <div class="partners_slider_in justify-content-center d-flex">
                 <div id="partners_slider1" class="our_partners owl-carousel owl-theme owl-loaded" style="display: inline-block">
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
-                            <img alt="" src="images/brands/1.png">
+                            <img alt="" src="<?= base_url('images/brands/1.png') ?>">
                         </a>
                     </div>
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
-                            <img alt="" src="images/brands/2.png">
+                            <img alt="" src="<?= base_url('images/brands/2.png') ?>">
                         </a>
                     </div>
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
-                            <img alt="" src="images/brands/3.png">
+                            <img alt="" src="<?= base_url('images/brands/3.png') ?>">
                         </a>
                     </div>
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
-                            <img alt="" src="images/brands/4.png">
+                            <img alt="" src="<?= base_url('images/brands/4.png') ?>">
                         </a>
                     </div>
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
-                            <img alt="" src="images/brands/5.jpg">
+                            <img alt="" src="<?= base_url('images/brands/5.png') ?>">
                         </a>
                     </div>
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
-                            <img alt="" src="images/brands/6.jpg">
+                            <img alt="" src="<?= base_url('images/brands/6.png') ?>">
                         </a>
                     </div>
                 </div>
@@ -41,74 +41,59 @@
 </div>
 <!-- AND PARTNERS -->
 <!-- FOOTER -->
-<div id="sns_footer" class="footer_style vesion2 wrap">
+<div id="sns_footer" class="footer_style vesion2 wrap" style="background-color: #349CFF;">
     <div id="sns_footer_top" class="footer">
         <div class="container">
             <div class="container_in">
                 <div class="row">
-                    <div class="col-md col-sm-12 col-xs-12 column0">
-                        <div class="contact_us">
-                            <h6>Contact us</h6>
-                            <ul class="fa-ul">
-                                <li class="pd-right">
-                                    <i class="fa-li fa fw fa-home"> </i>
-                                    8888 South Avenue Street, New York
-                                </li>
-                                <li>
-                                    <i class="fa-li fa fw fa-phone"> </i>
-                                    <p>(12) 3 456 7896</p>
-                                    <p>(12) 3 456 7895</p>
-                                </li>
-                                <li>
-                                    <i class="fa-li fa fw fa-envelope"> </i>
-                                    <p>
-                                        <a href="mailto:info@yourdomain.com">info@yourdomain.com</a>
-                                    </p>
-                                    <p>
-                                        <a href="mailto:info@yourdomain.com">info@yourdomain.com</a>
-                                    </p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    <div class="col" >
+                        <ul >
+                            <li >
+                                <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">FAQ (Frequently Asked Questions)</button></a>
+                            </li>
+                            <li >
+                                <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">Shopping Guide</button></a>
+                            </li>
+                            <li >
+                                <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">Safety Guide</button></a>
+                            </li>
+                            <li >
+                                <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">About Salephone</button></a>
+                            </li>
+                        </ul>
 
+                    </div>
                     <div class="col-phone-12 col-xs-6 col-sm-3 col-md column column1">
-                        <h6>Service</h6>
+                        <h6>Customer service</h6>
                         <ul>
                             <li>
-                                <a href="#">rices & Currencies</a>
+                                <a href="#">Terms and Conditions</a>
                             </li>
                             <li>
-                                <a href="#">Secure Payment</a>
+                                <a href="#">Payment method</a>
                             </li>
                             <li>
-                                <a href="#">Delivery Times & Costs</a>
+                                <a href="#">Return of goods</a>
                             </li>
                             <li>
-                                <a href="#">Returns & Exchanges</a>
-                            </li>
-                            <li>
-                                <a href="#">FAQ's</a>
+                                <a href="#">The Law Applies</a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-phone-12 col-xs-6 col-sm-3 col-md column column2">
-                        <h6>account</h6>
+                        <h6>Partner Services</h6>
                         <ul>
                             <li>
-                                <a href="#">My account</a>
+                                <a href="#">Partner Registration</a>
                             </li>
                             <li>
-                                <a href="#">Wishlist</a>
+                                <a href="#">Advantages and Deals</a>
                             </li>
                             <li>
                                 <a href="#">Order history</a>
                             </li>
                             <li>
-                                <a href="#">Specials</a>
-                            </li>
-                            <li>
-                                <a href="#">Gift vouchers</a>
+                                <a href="#">How to Purchase</a>
                             </li>
                         </ul>
                     </div>

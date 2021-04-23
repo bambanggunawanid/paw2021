@@ -58,7 +58,6 @@
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs" role="tablist">
                             <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Recommended</a></li>
-                            <!-- <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Best sale</a></li> -->
                         </ul>
 
                         <!-- Tab panes -->
@@ -69,21 +68,18 @@
                                         <div class="item col-lg-2d4 col-md-3 col-sm-4 col-xs-6 col-phone-12">
                                             <div class="item-inner">
                                                 <div class="prd">
-                                                    <div class="item-img clearfix">
-                                                        <div class="ico-label">
-                                                            <span class="ico-product ico-new">New</span>
-                                                        </div>
-                                                        <a class="product-image have-additional" title="<?= $u['product_name'] ?>" href="detail/<?= $u['product_id'] ?>">
+                                                    <a class="product-image have-additional" title="<?= $u['product_name'] ?>" href="detail/<?= $u['product_id'] ?>">
+                                                        <div class="item-img clearfix">
+                                                            <div class="ico-label">
+                                                                <span class="ico-product ico-new">New</span>
+                                                            </div>
                                                             <span class="img-main">
-                                                                <img src="<?= $u['product_image'] ?>" alt="">
+                                                                <img src="<?= base_url('images') . '/' . $u['brand'] . '/' . $u['product_image']; ?>" alt="">
                                                             </span>
-                                                        </a>
-                                                    </div>
+                                                        </div>
+                                                    </a>
                                                     <div class="item-info">
                                                         <div class="info-inner">
-                                                            <div class="item-title hidden-text-with-dot">
-                                                                <a title="<?= $u['product_name'] ?>" href="detail/<?= $u['product_id'] ?>"></a>
-                                                            </div>
                                                             <div class="item-price">
                                                                 <div class="price-box">
                                                                     <span class="regular-price">
@@ -113,8 +109,8 @@
                                                                     </a>
                                                                 </li>
                                                                 <li>
-                                                                    <a class="link-compare" href="#" title="Add to Compare">
-                                                                        <i class="fa fa-random"></i>
+                                                                    <a class="link-compare" href="#" title="Share Product">
+                                                                        <i class="fa fa-share"></i>
                                                                     </a>
                                                                 </li>
                                                                 <li class="wrap-quickview" data-id="qv_item_7">

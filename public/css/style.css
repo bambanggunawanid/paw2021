@@ -9,11 +9,10 @@
   text-overflow: ellipsis;
 }
 .outline-dark{
-    display: flex;
     border:2px solid #349CFF;
     border-radius:5px;
-    justify-content: space-between;
-    padding:2px 20px;
+    padding:10px 10px;
+    position: relative;
 }
 .clear-box{
     border:none;
@@ -22,6 +21,12 @@
 }
 .btn-custom {
     background-color: #349CFF;
+    color:#fff;
+    position: absolute;
+    right: 0;
+    top:0;
+    height: 100%;
+    width: 100px;
 }
 a:focus {
   outline: none!important;

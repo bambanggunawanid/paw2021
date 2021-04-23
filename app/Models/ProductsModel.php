@@ -7,11 +7,14 @@ use CodeIgniter\Model;
 class ProductsModel extends Model
 {
     protected $table = '01_products';
-    protected $useTimestamps = true;
-    $this->db->from('products');
-    $this->db->join('tbl_lining', 'products.lining=tbl_lining.id', 'left');
-    $this->db->where('products.id', $id);  // Also mention table name here
-    $query = $this->db->get();
-    if($query->num_rows() > 0)
-        return $data->result();
+
+    public function getDetailProduct($product_id = false)
+    {
+        if ($product_id == false) {
+            return "Not Found";
+        }
+        $this->join('02_product_color', 'product_id = color_id');
+        $this->join('02_product_image', 'product_id = image_id');
+        return $this->where(['product_id' => $product_id])->first();
+    }
 }

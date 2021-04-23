@@ -18,8 +18,6 @@
 
 <body id="bd" class=" cms-index-index cms-simen-home-page-v2 default cmspage">
     <div id="sns_wrapper">
-        <!-- NAVBAR -->
-        <?= $this->include('layouts/navbar') ?>
         <!-- HEADER -->
         <?= $this->include('layouts/header') ?>
         <!-- CONTENT -->
