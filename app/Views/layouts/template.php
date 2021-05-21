@@ -28,6 +28,7 @@
         <?= $this->include('layouts/footer') ?>
     </div>
     <!-- Scripts -->
+    <script src="<?= base_url('js/jquery-3.6.0.min.js') ?>"></script>
     <script src="<?= base_url('js/jquery-1.9.1.min.js') ?>"></script>
     <script src="<?= base_url('js/bootstrap.min.js') ?>"></script>
     <script src="<?= base_url('js/less.min.js') ?>"></script>

@@ -11,10 +11,10 @@
                         <div class="item style1">
                             <img src="images/sildeshow/slideshow.jpg" alt="">
                         </div>
-                        <div class="item style2">
+                        <div class="item style1">
                             <img src="images/sildeshow/slideshow1.jpg" alt="">
                         </div>
-                        <div class="item style3">
+                        <div class="item style2">
                             <img src="images/sildeshow/slideshow2.jpg" alt="">
                         </div>
                         <div class="item style3">
@@ -85,7 +85,7 @@
                                                                     <span class="regular-price">
                                                                         <span class="price">
                                                                             <?php $pricing =  $u['price'] - (($u['discount'] / 100) * $u['price']); ?>
-                                                                            <span class="price1">Rp. <?= number_format($pricing, 0, ',', '.')  ?></span>
+                                                                            <span class="price1">Rp <?= number_format($pricing, 0, ',', '.')  ?></span>
                                                                             <br>
                                                                             <span class="price2"><?= number_format($u['price'], 0, ',', '.') ?></span>
                                                                         </span>
@@ -112,13 +112,6 @@
                                                                     <a class="link-compare" href="#" title="Share Product">
                                                                         <i class="fa fa-share"></i>
                                                                     </a>
-                                                                </li>
-                                                                <li class="wrap-quickview" data-id="qv_item_7">
-                                                                    <div class="quickview-wrap">
-                                                                        <a class="sns-btn-quickview qv_btn" href="#">
-                                                                            <i class="fa fa-eye"></i>
-                                                                        </a>
-                                                                    </div>
                                                                 </li>
                                                             </ul>
                                                         </div>

@@ -1,9 +1,9 @@
 <!-- PARTNERS -->
 <div id="sns_partners" class="wrap">
     <div class="container">
-        <div class="slider-wrap">
-            <div class="partners_slider_in justify-content-center d-flex">
-                <div id="partners_slider1" class="our_partners owl-carousel owl-theme owl-loaded" style="display: inline-block">
+        <div class="slider-wrap row justify-content-center">
+            <div class="partners_slider_in  d-flex col-md-8">
+                <div id="partners_slider1" class="our_partners owl-carousel owl-theme owl-loaded " style="display: inline-block">
                     <div class="item">
                         <a class="banner11" href="#" target="_blank">
                             <img alt="" src="<?= base_url('images/brands/1.png') ?>">
@@ -45,11 +45,11 @@
     <div id="sns_footer_top" class="footer">
         <div class="container">
             <div class="container_in">
-                <div class="row">
-                    <div class="col" >
+                <div class="row justify-content-center">
+                    <div class="col-md-4" >
                         <ul >
                             <li >
-                                <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">FAQ (Frequently Asked Questions)</button></a>
+                                <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">FAQ</button></a>
                             </li>
                             <li >
                                 <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">Shopping Guide</button></a>
@@ -61,9 +61,8 @@
                                 <a href="#"><button type="button" class="btn outline-dark w-full" style="color: #349CFF; min-width:100%; display:block;">About Salephone</button></a>
                             </li>
                         </ul>
-
                     </div>
-                    <div class="col-phone-12 col-xs-6 col-sm-3 col-md column column1">
+                    <div class="col-phone-12 col-xs-6 col-sm-3 col-md-4 column column1">
                         <h6>Customer service</h6>
                         <ul>
                             <li>
@@ -80,7 +79,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-phone-12 col-xs-6 col-sm-3 col-md column column2">
+                    <div class="col-phone-12 col-xs-6 col-sm-3 col-md-4 column column2">
                         <h6>Partner Services</h6>
                         <ul>
                             <li>
@@ -102,14 +101,12 @@
         </div>
     </div>
 
-
     <div id="sns_footer_bottom" class="footer">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="bottom-pd1 col-sm-6 text-center">
                     <div class="sns-copyright">
-                        © 2015 Magento Demo Store. All Rights Reserved. Developer by
-                        <a title="" data-original-title="Visit SNSTheme.Com!" data-toggle="tooltip" href="http://www.snstheme.com/">SNSTheme.Com</a>
+                        © Developer by Group 1 PAW
                     </div>
                 </div>
             </div>

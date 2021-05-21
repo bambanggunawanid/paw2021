@@ -37,6 +37,9 @@
                                 <div class="form-search outline-dark">
                                     <input id="search" style="min-width:40vh" class="clear-box" type="text" value="" name="q" placeholder="Search here...." autocomplete="off">
                                     <button class="btn btn-custom" title="Search" type="submit">Search</button>
+                                    <script>
+
+                                    </script>
                                 </div>
                             </form>
                         </div>

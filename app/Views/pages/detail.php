@@ -12,15 +12,15 @@
                         <span class="icon-pointer "></span>
                         <ul class="breadcrumbs">
                             <li class="home">
-                                <a title="Go to Home Page" href="#">
+                                <a title="Go to Home Page" href="/">
                                     <i class="fa fa-home"></i>
-                                    <span>Home</span>
+                                    <span >Home</span>
                                 </a>
                             </li>
                             <li class="category3 last">
-                                <span><?php $str = $detail_product['product_name'];
-                                        preg_match("/\S*\s\S*\s\S*\s\S*/", $str, $result);
-                                        echo $result[0];  ?></span>
+                                <span>
+                                    <?= $detail_product['product_name']; ?>
+                                </span>
                             </li>
                         </ul>
                     </div>
